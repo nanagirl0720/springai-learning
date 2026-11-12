@@ -1,0 +1,24 @@
+${AnsiColor.BRIGHT_CYAN}                                      .-"""-.
+                                    .'  . .  '.
+                                   /   (  ?  )  \
+                                  |     '---'    |
+                                   \            /
+                                    '.        .'
+                                      '------'
+                                      o
+                                    o
+                                  o
+${AnsiColor.BRIGHT_MAGENTA}        .-~~~~~~~~~~~~~~~-.
+       /   _____________   \
+      |   /~~~~~~~~~~~~~\   |
+      |  |    u     u    |  |
+      |  |      \_/      |  |(
+       \  \___________/   /  |
+        '.              .'   |
+          ')          ('    /
+            '-.____.-'    /
+                   \     /
+${AnsiColor.BRIGHT_BLACK}          __________\___/______
+${AnsiColor.BRIGHT_YELLOW}              *    . . .    *
+${AnsiColor.BRIGHT_BLACK}   :: springai-learning ::  Spring Boot${spring-boot.formatted-version}
+   :: short hair, long thoughts ::  ${AnsiColor.DEFAULT}
